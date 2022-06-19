@@ -3,7 +3,7 @@
 Projeto "Alura-Studies", cronômetro de atividades em lista, usando React com Typescript, do curso "**React: Escrevendo com Typescript", da [Alura](https://cursos.alura.com.br/course/react-modernizando-escrever-typescript)**.
 
 ![Mockup projeto](./public/mockup.png)
- ### Como instalar o projeto
+ ### Como iniciar o projeto
  1. Clone o projeto pelo terminal:
  ` git clone https://github.com/rayanetenorios/cronometro-de-atividades.git`
  #####
